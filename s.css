@@ -1,0 +1,25 @@
+.ld{
+    color:white;
+    background-color:#343835;
+    width: 100%;
+    font-family: cursive;
+    height: 100%;
+    padding-bottom: 0px;
+}
+.btn2{
+    background:#343835;
+    color: rgb(255, 255, 255);
+
+    border: solid 5px;
+    margin-top: 10px;
+}
+.btn0{
+    background:#343835;
+    color: rgb(255, 255, 255);
+
+    border: solid 5px;
+}
+.imc{
+    height: 200px;
+    width: 200px;
+}
